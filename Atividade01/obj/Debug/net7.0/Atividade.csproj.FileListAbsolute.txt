@@ -1,0 +1,45 @@
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade\bin\Debug\net7.0\Atividade.exe
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade\bin\Debug\net7.0\Atividade.deps.json
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade\bin\Debug\net7.0\Atividade.runtimeconfig.json
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade\bin\Debug\net7.0\Atividade.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade\bin\Debug\net7.0\Atividade.pdb
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade\obj\Debug\net7.0\Atividade.csproj.AssemblyReference.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade\obj\Debug\net7.0\Atividade.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade\obj\Debug\net7.0\refint\Atividade.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade\obj\Debug\net7.0\Atividade.pdb
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade\obj\Debug\net7.0\ref\Atividade.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade 01-Aula02\bin\Debug\net7.0\Atividade.exe
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade 01-Aula02\bin\Debug\net7.0\Atividade.deps.json
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade 01-Aula02\bin\Debug\net7.0\Atividade.runtimeconfig.json
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade 01-Aula02\bin\Debug\net7.0\Atividade.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade 01-Aula02\bin\Debug\net7.0\Atividade.pdb
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade 01-Aula02\obj\Debug\net7.0\Atividade.csproj.AssemblyReference.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade 01-Aula02\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade 01-Aula02\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade 01-Aula02\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade 01-Aula02\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade 01-Aula02\obj\Debug\net7.0\Atividade.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade 01-Aula02\obj\Debug\net7.0\refint\Atividade.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade 01-Aula02\obj\Debug\net7.0\Atividade.pdb
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade 01-Aula02\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividade 01-Aula02\obj\Debug\net7.0\ref\Atividade.dll
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\Atividade01\bin\Debug\net7.0\Atividade.exe
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\Atividade01\bin\Debug\net7.0\Atividade.deps.json
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\Atividade01\bin\Debug\net7.0\Atividade.runtimeconfig.json
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\Atividade01\bin\Debug\net7.0\Atividade.dll
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\Atividade01\bin\Debug\net7.0\Atividade.pdb
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\Atividade01\obj\Debug\net7.0\Atividade.csproj.AssemblyReference.cache
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\Atividade01\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\Atividade01\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\Atividade01\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\Atividade01\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\Atividade01\obj\Debug\net7.0\Atividade.dll
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\Atividade01\obj\Debug\net7.0\refint\Atividade.dll
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\Atividade01\obj\Debug\net7.0\Atividade.pdb
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\Atividade01\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\Atividade01\obj\Debug\net7.0\ref\Atividade.dll
