@@ -1,0 +1,8 @@
+C:\Users\Mateus\source\repos\Atividade CRUD pessoas\Atividade CRUD pessoas\obj\Debug\Atividade CRUD pessoas.csproj.AssemblyReference.cache
+C:\Users\Mateus\source\repos\Atividade CRUD pessoas\Atividade CRUD pessoas\obj\Debug\Atividade CRUD pessoas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateus\source\repos\Atividade CRUD pessoas\Atividade CRUD pessoas\obj\Debug\Atividade CRUD pessoas.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\Atividade CRUD pessoas\Atividade CRUD pessoas\bin\Debug\Atividade CRUD pessoas.exe.config
+C:\Users\Mateus\source\repos\Atividade CRUD pessoas\Atividade CRUD pessoas\bin\Debug\Atividade CRUD pessoas.exe
+C:\Users\Mateus\source\repos\Atividade CRUD pessoas\Atividade CRUD pessoas\bin\Debug\Atividade CRUD pessoas.pdb
+C:\Users\Mateus\source\repos\Atividade CRUD pessoas\Atividade CRUD pessoas\obj\Debug\Atividade CRUD pessoas.exe
+C:\Users\Mateus\source\repos\Atividade CRUD pessoas\Atividade CRUD pessoas\obj\Debug\Atividade CRUD pessoas.pdb
