@@ -1,0 +1,15 @@
+C:\Users\Mateus\Desktop\CURSO POO\POO\exanimal\exanimal\obj\Debug\net6.0\exanimal.csproj.AssemblyReference.cache
+C:\Users\Mateus\Desktop\CURSO POO\POO\exanimal\exanimal\obj\Debug\net6.0\exanimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Desktop\CURSO POO\POO\exanimal\exanimal\obj\Debug\net6.0\exanimal.AssemblyInfoInputs.cache
+C:\Users\Mateus\Desktop\CURSO POO\POO\exanimal\exanimal\obj\Debug\net6.0\exanimal.AssemblyInfo.cs
+C:\Users\Mateus\Desktop\CURSO POO\POO\exanimal\exanimal\obj\Debug\net6.0\exanimal.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Desktop\CURSO POO\POO\exanimal\exanimal\bin\Debug\net6.0\exanimal.exe
+C:\Users\Mateus\Desktop\CURSO POO\POO\exanimal\exanimal\bin\Debug\net6.0\exanimal.deps.json
+C:\Users\Mateus\Desktop\CURSO POO\POO\exanimal\exanimal\bin\Debug\net6.0\exanimal.runtimeconfig.json
+C:\Users\Mateus\Desktop\CURSO POO\POO\exanimal\exanimal\bin\Debug\net6.0\exanimal.dll
+C:\Users\Mateus\Desktop\CURSO POO\POO\exanimal\exanimal\bin\Debug\net6.0\exanimal.pdb
+C:\Users\Mateus\Desktop\CURSO POO\POO\exanimal\exanimal\obj\Debug\net6.0\exanimal.dll
+C:\Users\Mateus\Desktop\CURSO POO\POO\exanimal\exanimal\obj\Debug\net6.0\refint\exanimal.dll
+C:\Users\Mateus\Desktop\CURSO POO\POO\exanimal\exanimal\obj\Debug\net6.0\exanimal.pdb
+C:\Users\Mateus\Desktop\CURSO POO\POO\exanimal\exanimal\obj\Debug\net6.0\exanimal.genruntimeconfig.cache
+C:\Users\Mateus\Desktop\CURSO POO\POO\exanimal\exanimal\obj\Debug\net6.0\ref\exanimal.dll
