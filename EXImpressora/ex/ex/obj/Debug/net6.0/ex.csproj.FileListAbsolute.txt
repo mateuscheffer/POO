@@ -1,0 +1,15 @@
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\EXImpressora\ex\ex\bin\Debug\net6.0\ex.exe
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\EXImpressora\ex\ex\bin\Debug\net6.0\ex.deps.json
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\EXImpressora\ex\ex\bin\Debug\net6.0\ex.runtimeconfig.json
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\EXImpressora\ex\ex\bin\Debug\net6.0\ex.dll
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\EXImpressora\ex\ex\bin\Debug\net6.0\ex.pdb
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\EXImpressora\ex\ex\obj\Debug\net6.0\ex.csproj.AssemblyReference.cache
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\EXImpressora\ex\ex\obj\Debug\net6.0\ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\EXImpressora\ex\ex\obj\Debug\net6.0\ex.AssemblyInfoInputs.cache
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\EXImpressora\ex\ex\obj\Debug\net6.0\ex.AssemblyInfo.cs
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\EXImpressora\ex\ex\obj\Debug\net6.0\ex.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\EXImpressora\ex\ex\obj\Debug\net6.0\ex.dll
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\EXImpressora\ex\ex\obj\Debug\net6.0\refint\ex.dll
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\EXImpressora\ex\ex\obj\Debug\net6.0\ex.pdb
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\EXImpressora\ex\ex\obj\Debug\net6.0\ex.genruntimeconfig.cache
+C:\Users\Mateus\Desktop\ULBRA\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO\EXImpressora\ex\ex\obj\Debug\net6.0\ref\ex.dll
