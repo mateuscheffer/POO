@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mateus\\Desktop\\ULBRA\\3 SEMESTRE\\PROGRAMAÇÃO ORIENTADA A OBJETOS\\aula16_crud_people_web_api\\aula12_ef_test.csproj": {}
+    "C:\\Users\\leona\\OneDrive\\Área de Trabalho\\Ulbra Semestre 3\\POO\\aula12_ef_teste\\aula12_ef_test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mateus\\Desktop\\ULBRA\\3 SEMESTRE\\PROGRAMAÇÃO ORIENTADA A OBJETOS\\aula16_crud_people_web_api\\aula12_ef_test.csproj": {
+    "C:\\Users\\leona\\OneDrive\\Área de Trabalho\\Ulbra Semestre 3\\POO\\aula12_ef_teste\\aula12_ef_test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mateus\\Desktop\\ULBRA\\3 SEMESTRE\\PROGRAMAÇÃO ORIENTADA A OBJETOS\\aula16_crud_people_web_api\\aula12_ef_test.csproj",
+        "projectUniqueName": "C:\\Users\\leona\\OneDrive\\Área de Trabalho\\Ulbra Semestre 3\\POO\\aula12_ef_teste\\aula12_ef_test.csproj",
         "projectName": "aula12_ef_test",
-        "projectPath": "C:\\Users\\Mateus\\Desktop\\ULBRA\\3 SEMESTRE\\PROGRAMAÇÃO ORIENTADA A OBJETOS\\aula16_crud_people_web_api\\aula12_ef_test.csproj",
-        "packagesPath": "C:\\Users\\Mateus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mateus\\Desktop\\ULBRA\\3 SEMESTRE\\PROGRAMAÇÃO ORIENTADA A OBJETOS\\aula16_crud_people_web_api\\obj\\",
+        "projectPath": "C:\\Users\\leona\\OneDrive\\Área de Trabalho\\Ulbra Semestre 3\\POO\\aula12_ef_teste\\aula12_ef_test.csproj",
+        "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leona\\OneDrive\\Área de Trabalho\\Ulbra Semestre 3\\POO\\aula12_ef_teste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mateus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,10 +40,6 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.1, )"
-            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -53,10 +49,6 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[7.0.5, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
             }
           },
           "imports": [

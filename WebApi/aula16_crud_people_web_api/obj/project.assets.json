@@ -1714,19 +1714,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mateus\\.nuget\\packages\\": {}
+    "C:\\Users\\leona\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mateus\\Desktop\\ULBRA\\3 SEMESTRE\\PROGRAMAÇÃO ORIENTADA A OBJETOS\\aula16_crud_people_web_api\\aula12_ef_test.csproj",
-      "projectName": "aula12_ef_test",
-      "projectPath": "C:\\Users\\Mateus\\Desktop\\ULBRA\\3 SEMESTRE\\PROGRAMAÇÃO ORIENTADA A OBJETOS\\aula16_crud_people_web_api\\aula12_ef_test.csproj",
-      "packagesPath": "C:\\Users\\Mateus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mateus\\Desktop\\ULBRA\\3 SEMESTRE\\PROGRAMAÇÃO ORIENTADA A OBJETOS\\aula16_crud_people_web_api\\obj\\",
+      "projectUniqueName": "c:\\Users\\leona\\OneDrive\\Área de Trabalho\\Ulbra Semestre 3\\POO\\avaliativa-POO-24-05\\aula12_ef_teste.csproj",
+      "projectName": "aula12_ef_teste",
+      "projectPath": "c:\\Users\\leona\\OneDrive\\Área de Trabalho\\Ulbra Semestre 3\\POO\\avaliativa-POO-24-05\\aula12_ef_teste.csproj",
+      "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\leona\\OneDrive\\Área de Trabalho\\Ulbra Semestre 3\\POO\\avaliativa-POO-24-05\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mateus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
